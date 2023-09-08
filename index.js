@@ -6,7 +6,7 @@ import fs from "fs";
 inquirer
   .prompt([
     {
-        message: "Type the URL",
+        message: "Type the URL ",
         name: "URL",
     },
   ])
